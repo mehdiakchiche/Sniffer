@@ -39,17 +39,7 @@ gcc sniffer.c -lpcap -o sniffer
 sudo ./sniffer
 ```
 
----
 
-## Structure du projet
-
-```
-sniffer-reseau/
- ├── sniffer.c
- └── README.md
-```
-
----
 
 ## Notes
 
