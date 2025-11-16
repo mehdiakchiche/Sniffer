@@ -1,4 +1,4 @@
-# Sniffer réseau en C (libpcap)
+// Sniffer réseau en C (libpcap)
 
 #include <pcap.h>
 #include <stdio.h>
