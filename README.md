@@ -1,7 +1,7 @@
 # Sniffer réseau (C + libpcap)
 
 Ce projet est un sniffer réseau simple écrit en C. Il utilise la bibliothèque libpcap pour capturer les paquets qui transitent sur l'interface réseau et affiche des informations basiques comme les adresses IP source et destination, la taille du paquet et le protocole utilisé.
-Ce projet est conçu pour être clair et accessible pour un étudiant de BTS CIEL, tout en montrant des compétences en programmation bas niveau et en analyse réseau.
+Ce projet est conçu pour être clair et accessible tout en montrant des compétences en programmation bas niveau et en analyse réseau.
 
 ---
 
