@@ -39,10 +39,3 @@ gcc sniffer.c -lpcap -o sniffer
 sudo ./sniffer
 ```
 
-
-
-## Notes
-
-* Fonctionne uniquement sous Linux
-* Nécessite libpcap
-* Projet volontairement simple et pédagogique
